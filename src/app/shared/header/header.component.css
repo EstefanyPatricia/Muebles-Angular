@@ -8,7 +8,7 @@ a{
 }
 header{
     display: flex;
-    height: 70px;
+    height: 95px;
     background-color: #d5aca2;
     justify-content: space-between;
     align-items: center;
@@ -20,8 +20,8 @@ header{
 }
 
 .logo img{
-    height: 110px;
-    width: 120px;
+    height: 70px;
+    width: 90px;
     margin-right: 40px;
     border-radius: 80pc;
 }
